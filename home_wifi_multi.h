@@ -1,2 +1,2 @@
-#define SSID1 "Osmo"
-#define PWD1 "tangible13"
+#define SSID1 "jettawifi"
+#define PWD1 "123456"

@@ -1,7 +1,6 @@
 /*
 
   CK Lam
-  OSMO RTOS C2
   Multi Client 1600x1200 10fps
   Board: AI-Thinker ESP32-CAM or ESP-EYE
   Compile as:
